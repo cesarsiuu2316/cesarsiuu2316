@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César Núñez</h1>
-<h3 align="center">I usually find some thing interesting in most things.</h3>
+<h3 align="center">I usually find something interesting in most things.</h3>
 
 - 🔭 I’m currently working on **everything I can.**
 
