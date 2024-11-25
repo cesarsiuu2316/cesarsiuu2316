@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **cesar23augusto16@gmail.com**
 
-- 📄 Know about my experiences [Co-Founder of The Blockchain Club at UNITEC](Co-Founder of The Blockchain Club at UNITEC)
+- 📄 Know about my experiences: Co-Founder of The Blockchain Club at UNITEC
 
 - ⚡ Fun fact **I love coffee.**
 
