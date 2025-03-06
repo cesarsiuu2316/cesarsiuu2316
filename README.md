@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **everything I can.**
 
-- 🌱 I’m currently learning **about Blockchain, Machine Learning, Data Science and a bit of web dev in flutter.**
+- 🌱 I’m currently learning **about Blockchain, Machine Learning, Data Science and a bit of web dev in react/Streamlit/flutter.**
 
 - 📫 How to reach me **cesar23augusto16@gmail.com**
 
