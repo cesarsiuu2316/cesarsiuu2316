@@ -14,9 +14,9 @@ Currently learning:
 - Agentic Workflows (**MCP/LangChain**).
 
 Fun facts: 
-- 🐶 I have a dog and a cat.
-- ☕ I love coffee (currently trying to switch to water, though).
-- 🚶 Hobbies: Fútbol, music, classic movies, and walking.
+- I have a dog and a cat.
+- I love coffee (currently trying to switch to water, though).
+- Hobbies: Fútbol, music, classic movies, and walking.
 
 ---
 
