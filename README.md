@@ -5,7 +5,7 @@ I'm César, a Data Scientist / AI Engineer and Blockchain Developer based in Hon
 Also, Co-Founder of The Blockchain Club at UNITEC
 
 I am interested in a little bit of everything, but my main focus right now is:
-- **FCN_Lecturenet:** Improving an academic project to extract, summarize, and index math video lectures using Deep Learning models (**PyTorch**).
+- **MathSymbolRecognizer for Whiteboards:** Improving an academic project to extract, summarize, and index math video lectures using a FasterRCNN finetunned with CROHME handwritten dataset (**PyTorch**).
 - **Redfish (ETHGlobal Prize Winner):** A Proof of Concept leveraging **zkTLS** and **ZKML**. Integrating a fraud detection verifiable model into **Uniswap v4 hooks** to verify transactions on-chain.
 
 Currently learning:
