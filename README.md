@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋</h2>
 
-I'm César, a Data Scientist / AI Engineer and Blockchain Developer based in Honduras.
+I'm César, a Data Scientist and AI Engineer based in Honduras.
 
 Also, Co-Founder of The Blockchain Club at UNITEC
 
 I am interested in a little bit of everything, but my main focus right now is:
-- **MathSymbolRecognizer for Whiteboards:** Improving an academic project to extract, summarize, and index math video lectures using a FasterRCNN finetunned with CROHME handwritten dataset (**PyTorch**).
+- **MathSymbolRecognizer for Whiteboard Math Recognition:** Improving an academic project to extract, summarize, and index math video lectures using a FasterRCNN finetunned with CROHME handwritten dataset (**PyTorch**).
 - **Redfish (ETHGlobal Prize Winner):** A Proof of Concept leveraging **zkTLS** and **ZKML**. Integrating a fraud detection verifiable model into **Uniswap v4 hooks** to verify transactions on-chain.
 
 Currently learning:
@@ -16,7 +16,7 @@ Currently learning:
 Fun facts: 
 - I have a dog and a cat.
 - I love coffee (currently trying to switch to water, though).
-- Hobbies: Fútbol, music, classic movies, and walking.
+- Hobbies: Football, music, classic movies, and walking.
 
 ---
 
