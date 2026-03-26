@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋</h2>
 
-I'm César, a Data Scientist and AI Engineer based in Honduras.
+I'm César, a Data Scientist and AI (ML/DL) Engineer based in Honduras.
 
 Also, Co-Founder of The Blockchain Club at UNITEC
 
